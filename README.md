@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть здесь
 
-[Моя первая работа на HTML & CSS](https://(https://milena1252.github.io/resume2/)
+[Моя первая работа на HTML & CSS](https://milena1252.github.io/resume2/)
